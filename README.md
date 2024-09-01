@@ -1,2 +1,1 @@
-# ai-interviewer-server
-MCA final year project
+# genter_viewer_server
